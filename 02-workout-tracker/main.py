@@ -103,11 +103,15 @@ Type 'q' to quit.
 
 Enter your choice: """
 
+
 def menu():
     while (selection := input(MENU_PROMPT).lower()) != "q":
         try: 
             MENU_OPTIONS[selection]()
         except KeyError:
             print("That's not a valid option. Please try again.")
+        except FileNotFoundError:
+            print("Please set your profile first.")
+
 
 menu()
