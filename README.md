@@ -2,8 +2,9 @@
 
 Python mini-projects learning and consolidating various concepts.
 
-| Title                                                                  | Description                                                                                                |
-| :--------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
-| [Habit Tracker](https://replit.com/@zan-clifton/habit-tracker?v=1)     | A simple habit tracker using [Pixela](https://pixe.la/)                                                    |
-| [Workout Tracker](https://replit.com/@zan-clifton/Workout-Tracker?v=1) | A basic workout tracker using [Nutritionix](https://www.nutritionix.com/) and [Sheety](https://sheety.co/) |
-| Movie Ranking (No repl)                                                | A very basic HTML page with headers, paragraphs and horizontal rule                                        |
+| Title                                                                     | Description                                                                                                |
+| :------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------- |
+| 01. [Habit Tracker](https://replit.com/@zan-clifton/habit-tracker?v=1)    | A simple habit tracker using [Pixela](https://pixe.la/)                                                    |
+| 02.[Workout Tracker](https://replit.com/@zan-clifton/Workout-Tracker?v=1) | A basic workout tracker using [Nutritionix](https://www.nutritionix.com/) and [Sheety](https://sheety.co/) |
+| 05. [HTML]()                                                              | HTML Fundamentals                                                                                          |
+| 07. Dijkstra's Algorithm (No repl)                                        | Exploring Dijkstra's algorithm and trying to understand how it works                                       |
